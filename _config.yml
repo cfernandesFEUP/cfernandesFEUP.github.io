@@ -21,10 +21,10 @@ repository               : "cfernandesFEUP/cfernandesFEUP.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "profile.jpg"
+  name             : "Carlos M.C.G. Fernandes"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Assistant Professor Mechanical Engineering"
   location         : "Porto, Portugal"
   employer         : "FEUP, University of Porto"
   uri              : "https://sigarra.up.pt/feup/pt/FUNC_GERAL.FORMVIEW?p_codigo=568726"
