@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Mechanical Engineering, University of Porto, 2015
+* M.S. in Mechanical Engineering, Faculty of Engineering of University of Porto, 2010
 
 Work experience
 ======
