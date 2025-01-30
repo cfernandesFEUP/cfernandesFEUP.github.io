@@ -27,7 +27,7 @@ author:
   bio              : "Assistant Professor Mechanical Engineering"
   location         : "Porto, Portugal"
   employer         : "FEUP, University of Porto"
-  url              : "https://sigarra.up.pt/feup/pt/FUNC_GERAL.FORMVIEW?p_codigo=568726"
+  uri              : "https://sigarra.up.pt/feup/pt/FUNC_GERAL.FORMVIEW?p_codigo=568726"
   email            : "cfernandes@fe.up.pt" 
 
   # Academic websites
@@ -80,8 +80,8 @@ publication_category:
     title: 'Books'
   manuscripts:
     title: 'Journal Articles'    
-#  conferences:
-#    title: 'Conference Papers'
+  conferences:
+    title: 'Conference Papers'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
