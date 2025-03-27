@@ -16,5 +16,7 @@ Throughout my improvisation studies, I had the opportunity to attend masterclass
 
 ## Photos from some concerts
 
+![Jazz ao Norte 2010](images/IMG_6725_c.jpg)
+
 
 
