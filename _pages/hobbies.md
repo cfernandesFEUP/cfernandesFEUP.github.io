@@ -14,7 +14,8 @@ Long before engineering, I developed a passion for music, beginning classical gu
 Throughout my improvisation studies, I had the opportunity to attend masterclasses and workshops with Romain Pilon, Jakob Bro, Guillermo Klein, Perico Sambeat, Jason Palmer, and Chico Pinheiro. In 2013, I participated in the Begues Jazz Camp in Barcelona with Michael Kanan, Charles Davis, Putter Smith, Jimmy Wormworth, and Jorge Rossy as Camp masters. 
 
 
-## Photos from some concerts
+Playing live
+--
 
 ![Jazz ao Norte 2010](../images/IMG_6725_c.jpg)
 
