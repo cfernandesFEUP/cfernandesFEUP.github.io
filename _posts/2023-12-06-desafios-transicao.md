@@ -8,9 +8,6 @@ tags:
   - climate change
 ---
 
-Desafios da Transição Energética: a relevância da Tribologia
-==
-
 Desde a revolução industrial, o consumo global de energia tem aumentado significativamente atingindo cerca de 400 exajoules por ano. Tal como nos primórdios industriais, uma grande parte desta energia é obtida a partir de combustíveis fósseis, com consequências adversas para o ambiente. Por isso, a transição energética tornou-se um desafio global e crucial no século XXI. Com o objetivo de atingir a neutralidade carbónica em 2050, procuramos assim reduzir a nossa dependência nos combustíveis fósseis e implementar fontes de energia mais amigas do ambiente. A tribologia, ciência que estuda o atrito, o desgaste e a lubrificação desempenha um papel fundamental neste desígnio.
 
 Como reduzir o desperdício de energia nos transportes com a tribologia?
