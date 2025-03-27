@@ -18,10 +18,7 @@ Playing live
 --
 
 ![Jazz ao Norte 2010](../images/IMG_6725_c.jpg)
-Jazz ao Norte, 2010
-
-![Jazz ao Norte 2011](../images/IMG_6725_c.jpg)
-Jazz ao Norte, 2011
+*Jazz ao Norte, 2010*
 
 
 
